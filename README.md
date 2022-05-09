@@ -1,1 +1,1 @@
-# Titanic-Project
+# Kaggle_Competitions
